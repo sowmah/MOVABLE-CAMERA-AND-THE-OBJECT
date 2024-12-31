@@ -1,15 +1,18 @@
 # Movable Camera and Object Viewer
 
 Overview
+
 The Movable Camera and Object Viewer is an interactive simulation built using OpenGL and the OpenGL Utility Toolkit (GLUT). This project demonstrates the movement of both a camera and an object in a three-dimensional space, showcasing the fundamental concepts of computer graphics such as translation and transformations.
 
 Features
+
 Simulates the movement of a camera and an object along the X, Y, and Z axes.
 Interactive controls via keyboard and mouse for user interaction.
 Utilizes consecutive transformations applied to altered coordinate systems.
 Demonstrates the use of OpenGL libraries (GL, GLU, GLUT) for rendering and managing graphical elements.
 
 Concepts Used
+
 Translation and Transformations:
 Moving objects and cameras in 3D space.
 Projection and Model View Matrices:
